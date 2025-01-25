@@ -68,6 +68,8 @@ class Program {
     }
 }
 
+// Ejercicio 2: Lista Invertida
+
 using System;
 
 public class LinkedListReversible {
